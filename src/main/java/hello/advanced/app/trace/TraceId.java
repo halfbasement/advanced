@@ -3,7 +3,7 @@ package hello.advanced.app.trace;
 import java.util.UUID;
 
 public class TraceId {
-    private String id;
+    private String id; // 트랜잭션 ID
     private int level;
 
 
